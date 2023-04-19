@@ -21,7 +21,7 @@ Number of Attributes: 12
 ![Screenshot 2023-04-20 014344](https://user-images.githubusercontent.com/83859149/233189426-db003caa-94fc-4c9b-b08f-00b2430788be.png)
 
 ## Convergence Graph
-![download](https://user-images.githubusercontent.com/83859149/233190487-e87e5f4d-dcd6-42d5-bba9-8e5bd440ea25.png)
+![download](https://user-images.githubusercontent.com/83859149/233192161-aefe38ce-daba-4f10-8186-957e09001821.png)
 
 ## Result
 The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.61 having kernel = rbf, Nu = 0.98 and Epsilon = 7.88.
